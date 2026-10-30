@@ -1,0 +1,6 @@
+{
+  "name": "PulseCut Studio",
+  "description": "Automated highlight reel video editor with AI scene analysis, dynamic text captions, vertical 9:16 and landscape 16:9 social exports, and 4K mastering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
